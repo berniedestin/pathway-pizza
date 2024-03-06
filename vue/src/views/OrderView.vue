@@ -34,7 +34,7 @@
      -Rita Stall
       </p>
     <p>“There’s a pizza for everyone! Even with her New Year’s Resolution, my wife always spares a cheat meal for The Safest Option!” -Doug Amos</p>
-    <p></p>
+    <!-- <p></p> -->
     </div>
     </div>
  

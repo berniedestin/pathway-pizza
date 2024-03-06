@@ -15,6 +15,7 @@ import OrderConfirmationView from '../views/OrderConfirmationView.vue';
 import UserOrdersView from '../views/UserOrdersView.vue';
 import UserOrderDetailView from '../views/UserOrderDetailView.vue';
 import ToppingsView from '../views/ToppingsView.vue';
+import ReviewsView from '../views/ReviewsView.vue';
 
 
 /**
@@ -38,6 +39,14 @@ const routes = [
     path: '/menu',
     name: 'menu',
     component: MenuView,
+    meta: {
+      requiresAuth: false
+    }
+  },
+  {
+    path: '/reviews',
+    name: 'reviews',
+    component: ReviewsView,
     meta: {
       requiresAuth: false
     }

@@ -2,7 +2,8 @@
     <footer>
         <a href="#">about Us</a>
         <br />
-        <a href="#">Reviews</a>
+        <router-link :to="{name:'reviews'}">Reviews</router-link>
+        <!-- <a href="#">Reviews</a> -->
         <br />
         <router-link :to="{name:'login'}">Employee Login</router-link>
     </footer>
