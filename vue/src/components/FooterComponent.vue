@@ -1,6 +1,7 @@
 <template>
     <footer>
-        <a href="#">about Us</a>
+        <router-link :to="{name:'about'}">about Us</router-link>
+        <!-- <a href="#">about Us</a> -->
         <br />
         <router-link :to="{name:'reviews'}">Reviews</router-link>
         <!-- <a href="#">Reviews</a> -->

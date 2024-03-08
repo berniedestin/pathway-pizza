@@ -16,6 +16,7 @@ import UserOrdersView from '../views/UserOrdersView.vue';
 import UserOrderDetailView from '../views/UserOrderDetailView.vue';
 import ToppingsView from '../views/ToppingsView.vue';
 import ReviewsView from '../views/ReviewsView.vue';
+import AboutView from '../views/AboutView.vue';
 
 
 /**
@@ -47,6 +48,14 @@ const routes = [
     path: '/reviews',
     name: 'reviews',
     component: ReviewsView,
+    meta: {
+      requiresAuth: false
+    }
+  },
+  {
+    path: '/about',
+    name: 'about',
+    component: AboutView,
     meta: {
       requiresAuth: false
     }

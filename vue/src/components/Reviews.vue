@@ -35,6 +35,7 @@ export{
 }
 h1{
   font-family: 'Mandalore Laser Title';
+  color: var(--brand-brown-color);
 }
 .reviews {
   display: flex;
