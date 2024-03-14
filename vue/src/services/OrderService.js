@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:9000';
+const API_URL = 'http://ec2-54-211-16-23.compute-1.amazonaws.com:9000';
 
 export default {
   // Create a new order
