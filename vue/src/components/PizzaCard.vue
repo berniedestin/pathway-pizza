@@ -19,7 +19,7 @@ export default {
   },
   methods:{
     geturl(name){
-        return new URL("../images/"+name, import.meta.url).href
+        return new URL("/public/images/"+name, import.meta.url).href
     }
   },
   created() {
