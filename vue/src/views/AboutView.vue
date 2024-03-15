@@ -14,41 +14,41 @@ import AboutPerson from '../components/AboutPerson.vue';
 export default{
     components:{
         AboutPerson
-    },
+    },//https://github.com/berniedestin/pathway-pizza/blob/gh-pages/images/About/DB.jpeg
     data(vm) {
         return{
             team:[
                 {
                     name: 'Destin Bernie',
-                    imgUrl: '../images/About/DB.jpeg',
+                    imgUrl: 'https://github.com/berniedestin/pathway-pizza/blob/gh-pages/images/About/DB.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/destin-bernie/',
                     gitHubUrl: 'https://github.com/berniedestin'
                     
                 },
                 {
                     name: 'Gene Jackson II',
-                    imgUrl: '../images/About/GJ.jpeg',
+                    imgUrl: 'https://github.com/berniedestin/pathway-pizza/blob/gh-pages/images/About/GJ.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/genejacksondeveloper/',
                     gitHubUrl: '#'
                     
                 },
                 {
                     name: 'Bailey Maben ',
-                    imgUrl: '../images/About/BM.jpeg',
+                    imgUrl: 'https://github.com/berniedestin/pathway-pizza/blob/gh-pages/images/About/BM.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/baileymaben/',
                     gitHubUrl: '#'
                     
                 },
                 {
                     name: 'Mohamed Abdi',
-                    imgUrl: '../images/About/MA.jpeg',
+                    imgUrl: 'https://github.com/berniedestin/pathway-pizza/blob/gh-pages/images/About/MA.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/mohamedabdiohio/',
                     gitHubUrl: '#'
                     
                 },
                 {
                     name: 'Tanjila Tabassum ',
-                    imgUrl: '../images/About/TT.jpeg',
+                    imgUrl: 'https://github.com/berniedestin/pathway-pizza/blob/gh-pages/images/About/TT.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/tanjilatabassumdeveloper/',
                     gitHubUrl: '#'
                     
