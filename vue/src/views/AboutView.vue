@@ -20,35 +20,35 @@ export default{
             team:[
                 {
                     name: 'Destin Bernie',
-                    imgUrl: '/public/images/About/DB.jpeg',
+                    imgUrl: '../images/About/DB.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/destin-bernie/',
                     gitHubUrl: 'https://github.com/berniedestin'
                     
                 },
                 {
                     name: 'Gene Jackson II',
-                    imgUrl: '/public/images/About/GJ.jpeg',
+                    imgUrl: '../images/About/GJ.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/genejacksondeveloper/',
                     gitHubUrl: '#'
                     
                 },
                 {
                     name: 'Bailey Maben ',
-                    imgUrl: '/public/images/About/BM.jpeg',
+                    imgUrl: '../images/About/BM.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/baileymaben/',
                     gitHubUrl: '#'
                     
                 },
                 {
                     name: 'Mohamed Abdi',
-                    imgUrl: '/public/images/About/MA.jpeg',
+                    imgUrl: '../images/About/MA.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/mohamedabdiohio/',
                     gitHubUrl: '#'
                     
                 },
                 {
                     name: 'Tanjila Tabassum ',
-                    imgUrl: '/public/images/About/TT.jpeg',
+                    imgUrl: '../images/About/TT.jpeg',
                     linkedInUrl: 'https://www.linkedin.com/in/tanjilatabassumdeveloper/',
                     gitHubUrl: '#'
                     
